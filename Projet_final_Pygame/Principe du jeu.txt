@@ -1,0 +1,5 @@
+UrTurn est un jeu de stratégie,inspiré du celebre jeu Ludo,avec le meme principe.
+Chaque joueur commence la partie avec toutes ses pièces dans le bloc de la couleur correspondante.
+Les règles du jeux sont simples:                                                                
+Chaque joueur clique sur le boutton du dé afin de le lancer et obtenir un numéro entre 1 et 6.
+Si le joueur obtient le numéro 6 il fait sortir un pion,puis il fait passer le tour à la personne suivante.
